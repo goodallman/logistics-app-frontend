@@ -11,4 +11,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### 3. npm run start
 
-## More detailed documentation: https://noyra-cloud.notion.site/Projektov-dokumentace-logistick-aplikace-f123e53b0cce4d9db7bbe72121a8113e?pvs=4
+## Detailed documentation: https://noyra-cloud.notion.site/Projektov-dokumentace-logistick-aplikace-f123e53b0cce4d9db7bbe72121a8113e?pvs=4
