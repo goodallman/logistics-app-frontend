@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #Instalation
 ### 1. `npm install`
 ### 2. Edit file: /src/config/config.js
-#### 2.1 apiURL - URL of your backend server (default http://localhost:8000 with initial setups)
-#### 2.2 authCookieName - Name of cookie token stored in browser
-#### 2.3 authenticationConstructor - Leave this as it is, it's a helper variable for fetch methods and authentications
+  1. apiURL - URL of your backend server (default http://localhost:8000 with initial setups)
+  2. authCookieName - Name of cookie token stored in browser
+  3. authenticationConstructor - Leave this as it is, it's a helper variable for fetch methods and authentications
 
 
 
