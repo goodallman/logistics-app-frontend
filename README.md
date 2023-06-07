@@ -9,7 +9,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   2. authCookieName - Name of cookie token stored in browser
   3. authenticationConstructor - Leave this as it is, it's a helper variable for fetch methods and authentications
 
+### 3. npm run start
 
+## More detailed documentation: https://noyra-cloud.notion.site/Projektov-dokumentace-logistick-aplikace-f123e53b0cce4d9db7bbe72121a8113e?pvs=4
 
 ## Available Scripts
 
